@@ -16,7 +16,7 @@ Before you begin, ensure you have the following:
 
 ## Development Expansion ##
 
-This application can be expaneded by implementing a Graphical User Interface(GUI) and also adding symbols for each type of currency and also lower case and uppercase cases. 
+This application can be expanded by implementing a Graphical User Interface(GUI) and also adding symbols for each type of currency and also lower case and uppercase cases. 
 
 ## Technology Stack ##
 
