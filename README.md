@@ -1,4 +1,4 @@
-# currencyConverter
+# Currency Converter
 
 This is a python application which allows the user to input a currency and convert it into whatever currency the user wants.
 
